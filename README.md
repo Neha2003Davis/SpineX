@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 ### 3. Run the Appropriate Notebooks
 🩻 Scoliosis Detection
-- [CNN_Scoliosis_Detection.ipynb]()
+- [CNN_Scoliosis_Detection.ipynb](CNN_Scoliosis_Detection)
 
 - [InceptionV3_Scoliosis_Detection.ipynb]()
 
