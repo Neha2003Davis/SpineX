@@ -45,15 +45,15 @@ pip install -r requirements.txt
 🩻 Scoliosis Detection
 - [CNN_Scoliosis_Detection.ipynb](CNN_Scoliosis_Detection.ipynb)
 
-- [InceptionV3_Scoliosis_Detection.ipynb]()
+- [InceptionV3_Scoliosis_Detection.ipynb](InceptionV3_Scoliosis_Detection.ipynb)
 
 📐 Cobb’s Angle Measurement
-- [Automatic_segmentation_and_Keypoint_detection.ipynb]()
+- [Automatic_segmentation_and_Keypoint_detection.ipynb](Automatic_segmentation_and_Keypoint_detection.ipynb)
 
-- [Manual_selection_for_Cobb_Angle_Measurement.ipynb]()
+- [Manual_selection_for_Cobb_Angle_Measurement.ipynb](Manual_selection_for_Cobb_Angle_Measurement.ipynb)
 
 🧍‍♀️ Posture Deformity Detection
-- [EfficientNetB0_Posture_Deformity_Detection.ipynb]()
+- [EfficientNetB0_Posture_Deformity_Detection.ipynb](EfficientNetB0_Posture_Deformity_Detection.ipynb)
 
 ## 🧠 Tech Stack
 - **Languages**: Python
